@@ -1,0 +1,7 @@
+aid: pep-boys-manny-moe-and-jack
+url: https://raw.githubusercontent.com/api-evangelist/pep-boys-manny-moe-and-jack/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.pep-boys-manny-moe-and-jack.com
