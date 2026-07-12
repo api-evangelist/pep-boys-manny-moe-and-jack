@@ -19,6 +19,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pep-boys-manny-moe-and-jack-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pep-boys-manny-moe-and-jack-domain-security.yml
   - type: Website
     url: https://www.pepboys.com
 maintainers:
