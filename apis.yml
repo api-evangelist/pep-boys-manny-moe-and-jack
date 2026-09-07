@@ -50,3 +50,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: pep-boys
+x-relationship: product
