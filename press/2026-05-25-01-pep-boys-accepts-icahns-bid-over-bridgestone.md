@@ -1,7 +1,9 @@
 ---
 title: Pep Boys Accepts Icahn's Bid Over Bridgestone
 url: https://www.automotive-fleet.com/news/pep-boys-accepts-icahns-bid-over-bridgestone
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pep Boys-Manny, Moe & Jack" press release artificial intelligence'
 position: 1
 source: serpapi-google

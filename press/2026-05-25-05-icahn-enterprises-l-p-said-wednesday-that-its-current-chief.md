@@ -1,7 +1,9 @@
 ---
 title: Icahn Enterprises L.P. said Wednesday that its current chief ...
 url: https://www.facebook.com/marketwatch/posts/icahn-enterprises-lp-said-wednesday-that-its-current-chief-executive-david-wille/779126987420958/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pep Boys-Manny, Moe & Jack" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Icahn Enterprises to Acquire Pep Boys
 url: https://www.prnewswire.com/news-releases/icahn-enterprises-to-acquire-pep-boys-300197829.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pep Boys-Manny, Moe & Jack" press release artificial intelligence'
 position: 2
 source: serpapi-google
